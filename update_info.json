@@ -1,0 +1,16 @@
+{
+  "tag_name": "1.0.0",
+  "published_at": "2025-12-23T14:30:00Z",
+  "assets": [
+    {
+      "name": "GenImageTool_v1.0.0_Windows_x64",
+      "download_url": "https://u.pcloud.link/publink/show?code=XZx7bx5ZQYUAI0wJB9FPdKVR2Vf0WSi1m387",
+      "size": 94628800
+    }
+  ],
+  "excluded_files": [
+    "version.json",
+    ".interface",
+    "static*"
+  ]
+}
