@@ -1,0 +1,6 @@
+{
+  "proxies": [
+    {"http": "http://user:pass@host:port", "https": "https://user:pass@host:port"},
+    {"http": "http://host:port", "https": "https://host:port"}
+  ]
+}
