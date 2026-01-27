@@ -1,6 +1,5 @@
 {
   "proxies": [
-    {"http": "http://user:pass@host:port", "https": "https://user:pass@host:port"},
-    {"http": "http://host:port", "https": "https://host:port"}
+    {"http": f"http://v5-7210-272972:TGUJC@78.46.139.42:23210", "https": f"http://v5-7210-272972:TGUJC@78.46.139.42:23210"}
   ]
 }
