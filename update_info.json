@@ -1,11 +1,11 @@
 {
-  "tag_name": "1.0.1",
-  "published_at": "2026-01-23T14:30:00Z",
+  "tag_name": "1.0.2",
+  "published_at": "2026-01-30T14:30:00Z",
   "assets": [
     {
-      "name": "laotonai_v1.0.1_Windows_x64",
-      "download_url": "https://u.pcloud.link/publink/show?code=XZTMHK5ZAjVakjRupdhVpF9gfd2a7b8ieWI7",
-      "size": 638628800
+      "name": "laotonai_v1.0.2_Windows_x64",
+      "download_url": "https://u.pcloud.link/publink/show?code=XZUNnK5ZM93DO4hv9SYQLIa62jyTUSDJAWDX",
+      "size": 658628800
     }
   ],
   "excluded_files": [
